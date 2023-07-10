@@ -9,6 +9,13 @@
             "name": "Program",
             "request": "launch",
             "mainClass": "application.Program",
+            "projectName": "chess_a24a3e15"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "application.Program",
             "projectName": "chess_c87a312"
         },
         {
